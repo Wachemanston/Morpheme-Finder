@@ -6,6 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 data/
 venv/
+*.crfsuite
 
 # env
 .env.json
